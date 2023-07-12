@@ -1,0 +1,42 @@
+-----------------------------------------------------------------------------------------------------------------
+# Inheritance
+    -> It is inheriting the properties of parent class into child class.
+    -> Inheritance is the procedure by which one object acquires all the properties and behavoiurs of a parent object.
+    -> We acheive Inheritance from extends keyweord.
+    -> Constructors are not shared in child classes .
+    -> Private methods are also not shared to child classes.
+
+------------------------------------------------------------------------------------------------------------------
+# Use of Inheritance
+    1. code usability
+    2. polymorphism(i.e. overriding)
+
+-------------------------------------------------------------------------------------------------------------------
+# Types of Inheritance
+    1. Single Inheritance
+    2. Multilevel Inheritance
+    3. hierarchical Inheritance
+
+-------------------------------------------------------------------------------------------------------------------
+# Types of relationship between classes
+    1. Inheritance
+    2. Association
+        a. Aggregiation(Weak)
+        b. Composition(Strong + important things )
+
+* Advantages 
+    1. Code resuablility
+    2. Cost cutting
+    3. Reduce redundancy
+
+-------------------------------------------------------------------------------------------------------------------
+
+# Difference between Inheritance and Association
+------------------------------------------------------
+    Inheritance         |            Association 
+------------------------------------------------------
+1. Extends keyweord     |       1. reference variable 
+2. blood relation       |       2. non blood relations 
+3. Tightly coupled      |       3. non tightly coupled
+                        |
+ ------------------------------------------------------  

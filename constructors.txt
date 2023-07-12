@@ -1,0 +1,19 @@
+----------------------------------------------------------------------------------------------------
+# CONSTRUCTOR
+    ->constructor is a block (similar to method ) having same name as that of class name.
+    ->constructor does not have return type not even void.
+    ->the only modifiers applicable for constructor are public,private,protected and default.
+    ->constructors are used to initialize an object.
+
+-----------------------------------------------------------------------------------------------------
+# Ways to call constructor
+    1. class_name obj_name=new class_name();
+    2. new class_name();
+
+-----------------------------------------------------------------------------------------------------
+# Types of constructor
+    1.Deafault constructor
+    2.No argument constructor
+    3.Parametrized constructor
+
+------------------------------------------------------------------------------------------------------
